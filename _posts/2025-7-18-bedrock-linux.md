@@ -1,6 +1,6 @@
 ---
 layout: post
-title: un a aproximacion a bedrock linux
+title: una aproximacion a bedrock linux
 ---
 
 # Bedrock Linux
