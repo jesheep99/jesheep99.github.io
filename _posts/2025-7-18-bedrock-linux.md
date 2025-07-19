@@ -5,7 +5,7 @@ title: un a aproximacion a bedrock linux
 
 
 
-![_config.yml]({{ site.baseurl }}/images/fatstfetch.png)
+![fastfetch](jesheep99.github.io/images/fastfetch.png)
 
 
 
