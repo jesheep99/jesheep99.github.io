@@ -11,4 +11,4 @@ I am a devops engineer with a passion for automation and cloud technologies. I e
 
 ### Contact me
 
-[d.zunigag@proton.me]](mailto:d.zunigag@proton.me)
+[d.zunigag@proton.me](mailto:d.zunigag@proton.me)
