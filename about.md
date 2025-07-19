@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+### About Me
 
-Some information about you!
+I am a devops engineer with a passion for automation and cloud technologies. I enjoy working on projects that involve infrastructure as code, github actions, and deployment pipelines.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+![fastfetch](../images/fgdl.png)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[d.zunigag@proton.me]](mailto:d.zunigag@proton.me)
