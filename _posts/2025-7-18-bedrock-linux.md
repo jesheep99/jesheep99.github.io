@@ -31,6 +31,9 @@ en la siguiente imagen se descarga el script de instalacion de bedrock linux, el
 para mas informacion https://bedrocklinux.org/
 
 
+
+![fastfetch](../images/brl/d.png)
+
 ![fastfetch](../images/brl/a.png)
 
 como pueden ver, el script de instalacion es muy sencillo y rapido de ejecutar, solo hay que seguir las instrucciones que aparecen en pantalla.
@@ -45,11 +48,6 @@ y luego debes configurar el archivo /etc/doas.conf para que puedas usarlo sin co
 ```bash
 doas sh bedrock-linux-installer.sh
 ```
-
-![fastfetch](../images/brl/f.png)
-
-
-![fastfetch](../images/brl/g.png)
 
 para instalar bedrock linux, solo hay que ejecutar el script de instalacion y seguir las instrucciones una de ellas es
 escribir Not reversible! para confirmar que quieres instalar bedrock linux, y luego te pedira que reinicies la maquina virtual o pc para que los cambios surtan efecto.
